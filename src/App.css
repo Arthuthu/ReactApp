@@ -1,0 +1,39 @@
+navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #3C3C3C;
+}
+
+.logo {
+  color: #0096AE;
+  font-size: 34px;
+  font-weight: bold;
+  padding: 0 0 0 20px;
+}
+
+.navbar-description {
+  color: #FFF;
+  font-size: 24px;
+  font-weight: bold;
+  padding: 0 20px 0 0;
+}
+
+.body-div {
+  background-color: #848484;
+  height: 2000px;
+  padding: 0 0 0 40px;
+}
+
+.body-title {
+  color: #FFF;
+  font-size: 64px;
+  font-weight: bold;
+  margin: 0;
+  padding: 20px 0 0 0;
+}
+
+.body-list {
+  color: #FFF;
+  font-size: 20px;
+}
